@@ -8,4 +8,6 @@ html {
   box-sizing: inherit;
 }
 
-text-size-adjust: 100%;
+body {
+  background-color: #8b6759;
+}
