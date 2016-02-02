@@ -14,10 +14,15 @@ body {
 
 svg {
   stroke: transparent;
+  display: block;
   margin: 0 auto;
+  padding: 1em;
 }
 
 .yellow {
   background: yellow;
 }
 
+.red {
+  background-color: red;
+}
