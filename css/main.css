@@ -14,9 +14,10 @@ body {
 
 svg {
   stroke: transparent;
+  margin: 0 auto;
 }
 
-.hero {
+.yellow {
   background: yellow;
 }
 
