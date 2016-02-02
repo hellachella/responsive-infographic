@@ -9,5 +9,9 @@ html {
 }
 
 body {
-  background-color: #8b6759;
+  background-color: #594b4a;
+}
+
+svg {
+  stroke: transparent;
 }
